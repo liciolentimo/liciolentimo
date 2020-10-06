@@ -14,7 +14,9 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
 ## Social
 [![Twitter Follow](https://img.shields.io/twitter/follow/liciolentimo.svg?style=social)](https://twitter.com/liciolentimo)
  |
-[LinkedIn](https://www.linkedin.com/in/liciolentimo/)
+ <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/liciolentimo/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
 
 
 
