@@ -11,6 +11,10 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
 </table>
 </center>
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=liciolentimo.liciolentimo)
+
 ## Social
 [![Twitter Follow](https://img.shields.io/twitter/follow/liciolentimo.svg?style=social)](https://twitter.com/liciolentimo)
  |
