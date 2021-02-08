@@ -15,6 +15,8 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liciolentimo.liciolentimo)
 
+<a href="https://www.buymeacoffee.com/liciolentimo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Social
 [![Twitter Follow](https://img.shields.io/twitter/follow/liciolentimo.svg?style=social)](https://twitter.com/liciolentimo)
  |
