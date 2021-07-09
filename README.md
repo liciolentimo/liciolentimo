@@ -18,7 +18,7 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
 <a href="https://www.buymeacoffee.com/liciolentimo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 175px !important;" ></a>
 
 ## TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/liciolentimo.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/528698"></script>
 
 
 ## Social
