@@ -9,6 +9,8 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=liciolentimo&theme=default" /></td>
   </tr>   
 </table>
+  
+  [![GitHub stats](https://github-readme-stats-akshayashokcode.vercel.app//api?username=liciolentimo&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )]
  
   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=liciolentimo&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 </center>
