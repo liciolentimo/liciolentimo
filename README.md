@@ -27,6 +27,7 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
  |
  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/liciolentimo/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/liciolentimo.png" alt="TryHackMe">
   </a>
 
 
